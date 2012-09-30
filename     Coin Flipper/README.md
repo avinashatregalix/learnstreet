@@ -1,11 +1,9 @@
-
 Welcome! Here is a     Coin Flipper project I built on LearnStreet's Code Garage using ruby.
 ===============================================================================================================
 
 Project description
 -------------------------
-
-        In the Coin Flip project you will create a coin simulator by using randomization.The coin used is a fair coin and it will be heads or tails 50% of the time. You will guess if the coin will be either heads or tails, and then if you are correct, you will earn one point. Otherwise, you will lose one point. The game does not actually end, but the points earned are displayed.
+In the Coin Flip project you will create a coin simulator by using randomization.The coin used is a fair coin and it will be heads or tails 50% of the time. You will guess if the coin will be either heads or tails, and then if you are correct, you will earn one point. Otherwise, you will lose one point. The game does not actually end, but the points earned are displayed.
 
 Try it out!
 --------------
